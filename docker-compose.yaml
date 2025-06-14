@@ -2,7 +2,6 @@ version: '3.3'
 
 services:
   web:
-    image: "ravikiran246/my-app-new:latest
-"
+    image: "ravikiran246/my-app-new:latest"
     ports:
       - "8000:8000"
